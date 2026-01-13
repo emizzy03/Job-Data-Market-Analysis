@@ -80,7 +80,8 @@ pip install pandas numpy matplotlib openpyxl
    - Cell 1: Load and clean job market data
    - Cell 2: Extract technical skills from job descriptions
    - Cells 3-6: Generate visualizations and insights
-   - Cell 7: Export cleaned data with skills
+   - Cell 7: Print summary report
+   - Cell 8: Export cleaned data with skills
 
 3. **View Results**
    - Inline visualizations will appear after each chart cell
